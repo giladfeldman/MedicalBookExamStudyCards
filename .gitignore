@@ -21,6 +21,10 @@ output/needed redoing/
 # === Archive of earlier attempts ===
 Archive/
 
+# === Pilot and examples (internal only) ===
+Pilot/
+examples/
+
 # === Empty/legacy directories ===
 nelson_final/
 {input,output,work,scripts}/
