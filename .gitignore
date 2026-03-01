@@ -1,6 +1,5 @@
-# === Input files (copyrighted PDFs — too large for git) ===
-input/*.pdf
-input/Nelson book chapters/
+# === Input files (copyrighted — never commit) ===
+input/
 
 # === Work directory (intermediate/temp files) ===
 work/page_*.png
