@@ -1,0 +1,875 @@
+{
+  "project": "Nelson Anki Flashcards v6",
+  "model_id": 1607392322,
+  "last_updated": "2026-03-01T14:48:57.821901+00:00",
+  "current_batch": null,
+  "next_batch": null,
+  "completed_batches": [
+    {
+      "batch_id": "pilot_v2",
+      "section": "נפרולוגיה (pilot v2)",
+      "start_page": 162,
+      "end_page": 164,
+      "page_count": 3,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "cards_written": 75,
+      "notes_count": 75,
+      "cloze_count": 217
+    },
+    {
+      "batch_id": "1a_infectious_p1",
+      "section": "מחלות זיהומיות (חלק 1)",
+      "start_page": 1,
+      "end_page": 8,
+      "page_count": 8,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "cards_written": 131,
+      "notes_count": 131,
+      "cloze_count": 423
+    },
+    {
+      "batch_id": "1b_infectious_p2",
+      "section": "מחלות זיהומיות (חלק 2)",
+      "start_page": 9,
+      "end_page": 16,
+      "page_count": 8,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 140,
+      "cloze_count": 463
+    },
+    {
+      "batch_id": "1c_infectious_p3",
+      "section": "מחלות זיהומיות (חלק 3)",
+      "start_page": 17,
+      "end_page": 24,
+      "page_count": 8,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 195,
+      "cloze_count": 606
+    },
+    {
+      "batch_id": "1d_infectious_p4",
+      "section": "מחלות זיהומיות (חלק 4)",
+      "start_page": 25,
+      "end_page": 33,
+      "page_count": 9,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 165,
+      "cloze_count": 498
+    },
+    {
+      "batch_id": "1e_infectious_p5",
+      "section": "מחלות זיהומיות (חלק 5)",
+      "start_page": 34,
+      "end_page": 40,
+      "page_count": 7,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 109,
+      "cloze_count": 332
+    },
+    {
+      "batch_id": "1f_infectious_p6",
+      "section": "מחלות זיהומיות (חלק 6)",
+      "start_page": 41,
+      "end_page": 46,
+      "page_count": 6,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 104,
+      "cloze_count": 323
+    },
+    {
+      "batch_id": "2a_neurology_p1",
+      "section": "נוירולוגיה (חלק 1)",
+      "start_page": 48,
+      "end_page": 56,
+      "page_count": 9,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 145,
+      "cloze_count": 531
+    },
+    {
+      "batch_id": "2b_neurology_p2",
+      "section": "נוירולוגיה (חלק 2)",
+      "start_page": 57,
+      "end_page": 66,
+      "page_count": 10,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 116,
+      "cloze_count": 464
+    },
+    {
+      "batch_id": "3a_cardiology_p1_redo",
+      "section": "קרדיולוגיה חלק 1 (redo)",
+      "start_page": 67,
+      "end_page": 76,
+      "page_count": 10,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 141,
+      "cloze_count": 446
+    },
+    {
+      "batch_id": "3b_cardiology_p2",
+      "section": "קרדיולוגיה (חלק 2)",
+      "start_page": 77,
+      "end_page": 86,
+      "page_count": 10,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 111,
+      "cloze_count": 413
+    },
+    {
+      "batch_id": "4_pulmonology_redo",
+      "section": "ריאות (redo)",
+      "start_page": 87,
+      "end_page": 95,
+      "page_count": 9,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 135,
+      "cloze_count": 437
+    },
+    {
+      "batch_id": "5a_immunology_p1_redo",
+      "section": "אימונולוגיה ואלרגיה חלק 1 (redo)",
+      "start_page": 96,
+      "end_page": 103,
+      "page_count": 8,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 126,
+      "cloze_count": 400
+    },
+    {
+      "batch_id": "5b_immunology_p2",
+      "section": "אימונולוגיה ואלרגיה (חלק 2)",
+      "start_page": 104,
+      "end_page": 111,
+      "page_count": 8,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 54,
+      "cloze_count": 153
+    },
+    {
+      "batch_id": "3b_cardiology_p2_redo",
+      "section": "קרדיולוגיה חלק 2 (redo)",
+      "start_page": 77,
+      "end_page": 86,
+      "page_count": 10,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 111,
+      "cloze_count": 392,
+      "replaces": "3b_cardiology_p2"
+    },
+    {
+      "batch_id": "2b_neurology_p2_redo",
+      "section": "נוירולוגיה חלק 2 (redo)",
+      "start_page": 57,
+      "end_page": 66,
+      "page_count": 10,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 107,
+      "cloze_count": 378,
+      "replaces": "2b_neurology_p2"
+    },
+    {
+      "batch_id": "5b_immunology_p2_redo",
+      "section": "אימונולוגיה ואלרגיה חלק 2 (redo)",
+      "start_page": 104,
+      "end_page": 111,
+      "page_count": 8,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 58,
+      "cloze_count": 204,
+      "replaces": "5b_immunology_p2"
+    },
+    {
+      "batch_id": "6a_hematology_p1",
+      "section": "המטולוגיה (חלק 1)",
+      "start_page": 112,
+      "end_page": 120,
+      "page_count": 9,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 142,
+      "cloze_count": 454
+    },
+    {
+      "batch_id": "6b_hematology_p2",
+      "section": "המטולוגיה (חלק 2)",
+      "start_page": 121,
+      "end_page": 128,
+      "page_count": 8,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 114,
+      "cloze_count": 357
+    },
+    {
+      "batch_id": "7_oncology",
+      "section": "אונקולוגיה",
+      "start_page": 129,
+      "end_page": 136,
+      "page_count": 8,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 174,
+      "cloze_count": 535
+    },
+    {
+      "batch_id": "8a_gastro_p1",
+      "section": "גסטרו-אנטרולוגיה (חלק 1)",
+      "start_page": 137,
+      "end_page": 146,
+      "page_count": 10,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 160,
+      "cloze_count": 499
+    },
+    {
+      "batch_id": "8b_gastro_p2",
+      "section": "גסטרו-אנטרולוגיה (חלק 2)",
+      "start_page": 147,
+      "end_page": 155,
+      "page_count": 9,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 135,
+      "cloze_count": 446,
+      "cards_written": 135
+    },
+    {
+      "batch_id": "9_nutrition",
+      "section": "תזונה",
+      "start_page": 156,
+      "end_page": 161,
+      "page_count": 6,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 97,
+      "cloze_count": 303,
+      "cards_written": 97
+    },
+    {
+      "batch_id": "10a_nephrology_p1",
+      "section": "נפרולוגיה (חלק 1)",
+      "start_page": 165,
+      "end_page": 172,
+      "page_count": 8,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 131,
+      "cloze_count": 415,
+      "cards_written": 131
+    },
+    {
+      "batch_id": "10b_nephrology_p2",
+      "section": "נפרולוגיה (חלק 2)",
+      "start_page": 173,
+      "end_page": 178,
+      "page_count": 6,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 91,
+      "cloze_count": 307,
+      "cards_written": 91
+    },
+    {
+      "batch_id": "11a_endocrinology_p1",
+      "section": "אנדוקרינולוגיה (חלק 1)",
+      "start_page": 179,
+      "end_page": 188,
+      "page_count": 10,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 169,
+      "cloze_count": 512
+    },
+    {
+      "batch_id": "11b_endocrinology_p2",
+      "section": "אנדוקרינולוגיה (חלק 2)",
+      "start_page": 189,
+      "end_page": 200,
+      "page_count": 12,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "nelson_reading": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 192,
+      "cloze_count": 559
+    },
+    {
+      "batch_id": "11c_endocrinology_p3",
+      "section": "אנדוקרינולוגיה (חלק 3)",
+      "start_page": 201,
+      "end_page": 205,
+      "page_count": 5,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 88,
+      "cloze_count": 263
+    },
+    {
+      "batch_id": "12a_rheumatology_p1",
+      "section": "ראומטולוגיה (חלק 1)",
+      "start_page": 206,
+      "end_page": 213,
+      "page_count": 8,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 127,
+      "cloze_count": 385
+    },
+    {
+      "batch_id": "12b_rheumatology_p2",
+      "section": "ראומטולוגיה (חלק 2)",
+      "start_page": 214,
+      "end_page": 219,
+      "page_count": 6,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 88,
+      "cloze_count": 297
+    },
+    {
+      "batch_id": "13a_metabolic_p1",
+      "section": "מחלות מטבוליות (חלק 1)",
+      "start_page": 220,
+      "end_page": 226,
+      "page_count": 7,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 104,
+      "cloze_count": 301
+    },
+    {
+      "batch_id": "13b_metabolic_p2",
+      "section": "מחלות מטבוליות (חלק 2)",
+      "start_page": 227,
+      "end_page": 233,
+      "page_count": 7,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 160,
+      "cloze_count": 549
+    },
+    {
+      "batch_id": "14a_neonatology_p1",
+      "section": "נאונטולוגיה (חלק 1)",
+      "start_page": 234,
+      "end_page": 240,
+      "page_count": 7,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 127,
+      "cloze_count": 353
+    },
+    {
+      "batch_id": "14b_neonatology_p2",
+      "section": "נאונטולוגיה (חלק 2)",
+      "start_page": 241,
+      "end_page": 246,
+      "page_count": 6,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 112,
+      "cloze_count": 330
+    },
+    {
+      "batch_id": "15_multi_specialty",
+      "section": "אורתופדיה + עיניים + עור",
+      "start_page": 247,
+      "end_page": 253,
+      "page_count": 7,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 145,
+      "cloze_count": 509
+    },
+    {
+      "batch_id": "16_mixed",
+      "section": "עור + הרעלות + התנהגות",
+      "start_page": 254,
+      "end_page": 259,
+      "page_count": 6,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 130,
+      "cloze_count": 374
+    },
+    {
+      "batch_id": "17_final",
+      "section": "התנהגות + גנטיקה + חירום",
+      "start_page": 260,
+      "end_page": 265,
+      "page_count": 6,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 109,
+      "cloze_count": 333
+    },
+    {
+      "batch_id": "1g_infectious_p47",
+      "section": "מחלות זיהומיות (עמ׳ 47)",
+      "start_page": 47,
+      "end_page": 47,
+      "page_count": 1,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 20,
+      "cloze_count": 64
+    }
+  ],
+  "stats": {
+    "sections_complete": 10,
+    "total_sections": 21,
+    "pages_processed": 175,
+    "total_pages": 265,
+    "total_notes": 2786,
+    "total_clozes": 8966
+  },
+  "sections": [
+    {
+      "id": 0,
+      "name": "Pilot",
+      "name_he": "פיילוט",
+      "start": 162,
+      "end": 164,
+      "status": "complete"
+    },
+    {
+      "id": 1,
+      "name": "Infectious Diseases",
+      "name_he": "מחלות זיהומיות",
+      "start": 1,
+      "end": 46,
+      "status": "complete"
+    },
+    {
+      "id": 2,
+      "name": "Neurology",
+      "name_he": "נוירולוגיה",
+      "start": 48,
+      "end": 66,
+      "status": "complete"
+    },
+    {
+      "id": 3,
+      "name": "Cardiology",
+      "name_he": "קרדיולוגיה",
+      "start": 67,
+      "end": 86,
+      "status": "complete"
+    },
+    {
+      "id": 4,
+      "name": "Pulmonology",
+      "name_he": "ריאות",
+      "start": 87,
+      "end": 95,
+      "status": "complete"
+    },
+    {
+      "id": 5,
+      "name": "Immunology & Allergy",
+      "name_he": "אימונולוגיה ואלרגיה",
+      "start": 96,
+      "end": 111,
+      "status": "complete"
+    },
+    {
+      "id": 6,
+      "name": "Hematology",
+      "name_he": "המטולוגיה",
+      "start": 112,
+      "end": 128,
+      "status": "complete"
+    },
+    {
+      "id": 7,
+      "name": "Oncology",
+      "name_he": "אונקולוגיה",
+      "start": 129,
+      "end": 136,
+      "status": "complete"
+    },
+    {
+      "id": 8,
+      "name": "Gastroenterology",
+      "name_he": "גסטרו-אנטרולוגיה",
+      "start": 137,
+      "end": 155,
+      "status": "complete"
+    },
+    {
+      "id": 9,
+      "name": "Nutrition",
+      "name_he": "תזונה",
+      "start": 156,
+      "end": 161,
+      "status": "complete"
+    },
+    {
+      "id": 10,
+      "name": "Nephrology",
+      "name_he": "נפרולוגיה",
+      "start": 162,
+      "end": 178,
+      "status": "complete"
+    },
+    {
+      "id": 11,
+      "name": "Endocrinology",
+      "name_he": "אנדוקרינולוגיה",
+      "start": 179,
+      "end": 205,
+      "status": "complete"
+    },
+    {
+      "id": 12,
+      "name": "Rheumatology",
+      "name_he": "ראומטולוגיה",
+      "start": 206,
+      "end": 219,
+      "status": "complete"
+    },
+    {
+      "id": 13,
+      "name": "Metabolic Diseases",
+      "name_he": "מחלות מטבוליות",
+      "start": 220,
+      "end": 233,
+      "status": "complete"
+    },
+    {
+      "id": 14,
+      "name": "Neonatology",
+      "name_he": "נאונטולוגיה",
+      "start": 234,
+      "end": 246,
+      "status": "complete"
+    },
+    {
+      "id": 15,
+      "name": "Orthopedics",
+      "name_he": "אורתופדיה",
+      "start": 247,
+      "end": 253,
+      "status": "complete"
+    },
+    {
+      "id": 16,
+      "name": "Ophthalmology",
+      "name_he": "עיניים",
+      "start": 254,
+      "end": 256,
+      "status": "complete"
+    },
+    {
+      "id": 17,
+      "name": "Dermatology",
+      "name_he": "עור",
+      "start": 257,
+      "end": 257,
+      "status": "complete"
+    },
+    {
+      "id": 18,
+      "name": "Toxicology",
+      "name_he": "הרעלות",
+      "start": 258,
+      "end": 259,
+      "status": "complete"
+    },
+    {
+      "id": 19,
+      "name": "Behavioral/Psychiatry",
+      "name_he": "התנהגות/פסיכיאטריה",
+      "start": 260,
+      "end": 262,
+      "status": "complete"
+    },
+    {
+      "id": 20,
+      "name": "Genetics",
+      "name_he": "גנטיקה",
+      "start": 263,
+      "end": 265,
+      "status": "complete"
+    }
+  ],
+  "summary": {
+    "sections_complete": 21,
+    "pages_processed": 265,
+    "total_notes": 4357,
+    "total_clozes": 13795
+  }
+}

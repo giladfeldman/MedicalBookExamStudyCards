@@ -1,0 +1,46 @@
+# === Input files (copyrighted PDFs — too large for git) ===
+input/*.pdf
+input/Nelson book chapters/
+
+# === Work directory (intermediate/temp files) ===
+work/page_*.png
+work/archive/
+work/nelson_chapters/
+work/current_*.json
+work/current_*.md
+work/cards_part*.md
+work/*.tmp.*
+
+# === Output backup directories ===
+output/backup/
+output/backup_cloze_fix/
+output/needed redoing/
+
+# === Root-level temp files ===
+*.tmp.*
+
+# === Archive of earlier attempts ===
+Archive/
+
+# === Empty/legacy directories ===
+nelson_final/
+{input,output,work,scripts}/
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === IDE ===
+.vscode/
+.idea/
+
+# === Claude Code internal ===
+.claude/
