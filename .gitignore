@@ -1,14 +1,8 @@
 # === Input files (copyrighted — never commit) ===
 input/
 
-# === Work directory (intermediate/temp files) ===
-work/page_*.png
-work/archive/
-work/nelson_chapters/
-work/current_*.json
-work/current_*.md
-work/cards_part*.md
-work/*.tmp.*
+# === Work directory (all intermediate files) ===
+work/
 
 # === Output backup directories ===
 output/backup/
