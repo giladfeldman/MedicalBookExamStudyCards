@@ -4,14 +4,15 @@ Comprehensive Anki flashcard deck generated from a 265-page Hebrew medical summa
 
 ## Final Output
 
-- **4,357 notes** across **13,795 cloze review cards**
+- **4,499 notes** across **14,277 cloze review cards** (4,357 original + 142 gap-fill)
 - **265/265 pages** covered (100%)
-- **36 APKG files** in `output/` — all pass strict verification
+- **37 APKG files** in `output/` — all pass strict verification (+ `nelson_complete.apkg` merged deck)
 - **21 medical specialties** organized into sub-decks
+- **External audit**: Gemini Pro 3.1 table-coverage audit identified and patched 142 supplementary cards across 12 pages
 
 ## How to Use
 
-1. Download APKG files from `output/`
+1. Download `output/nelson_complete.apkg` (single merged file with all 4,499 notes) — OR import individual batch APKGs from `output/`
 2. Import into [Anki](https://apps.ankiweb.net/) (File → Import)
 3. Cards appear under the deck `נלסון 21::` with sub-decks per specialty and disease
 
@@ -31,17 +32,17 @@ Comprehensive Anki flashcard deck generated from a 265-page Hebrew medical summa
 
 | # | Specialty | Pages | Notes |
 |---|-----------|-------|-------|
-| 1 | מחלות זיהומיות (Infectious Diseases) | 1-47 | 884 |
-| 2 | נוירולוגיה (Neurology) | 48-66 | 252 |
+| 1 | מחלות זיהומיות (Infectious Diseases) | 1-47 | 901 |
+| 2 | נוירולוגיה (Neurology) | 48-66 | 254 |
 | 3 | קרדיולוגיה (Cardiology) | 67-86 | 252 |
 | 4 | ריאות (Pulmonology) | 87-95 | 135 |
 | 5 | אימונולוגיה (Immunology & Allergy) | 96-111 | 184 |
-| 6 | המטולוגיה (Hematology) | 112-128 | 256 |
+| 6 | המטולוגיה (Hematology) | 112-128 | 290 |
 | 7 | אונקולוגיה (Oncology) | 129-136 | 174 |
-| 8 | גסטרו-אנטרולוגיה (Gastroenterology) | 137-155 | 295 |
+| 8 | גסטרו-אנטרולוגיה (Gastroenterology) | 137-155 | 296 |
 | 9 | תזונה (Nutrition) | 156-161 | 97 |
 | 10 | נפרולוגיה (Nephrology) | 162-178 | 297 |
-| 11 | אנדוקרינולוגיה (Endocrinology) | 179-205 | 449 |
+| 11 | אנדוקרינולוגיה (Endocrinology) | 179-205 | 555 |
 | 12 | ראומטולוגיה (Rheumatology) | 206-219 | 215 |
 | 13 | מחלות מטבוליות (Metabolic Diseases) | 220-233 | 264 |
 | 14 | נאונטולוגיה (Neonatology) | 234-246 | 239 |
@@ -61,19 +62,21 @@ PDF → Extract (PyMuPDF) → Chapter Map → Card Writing (Claude sub-agents)
 - **Anti-degradation**: Formula-based density minimums, cloze distribution validation
 - **Two-level verification**: `validate_density.py` + `verify.py --strict`
 - **Progress tracking**: `progress.json` enables interrupt recovery at any phase
+- **External audit**: Post-completion table-coverage audit via `audit_tables.py` + Gemini review to catch structural gaps
+- **Merged output**: `merge_apkg.py` produces a single complete deck for easy distribution
 
 ## Project Structure
 
 ```
-├── output/           ← 36 APKG files + card markdown archives
+├── output/           ← 37 APKG files + nelson_complete.apkg merged deck + card markdown archives
 ├── input/            ← Source PDF + Nelson chapter index
-├── work/             ← Page images (PNG), gold standard, last batch state
-├── scripts/          ← Pipeline scripts (extract, build, verify, fix)
+├── work/             ← Page images (PNG), gold standard, audit reports, last batch state
+├── scripts/          ← Pipeline scripts (extract, build, verify, fix, audit, merge)
 ├── CLAUDE.md         ← Claude Code instructions
 ├── prompt.md         ← Card writing rules (11 rules)
 ├── orchestrator.md   ← Phase-by-phase pipeline logic
 ├── progress.json     ← Machine-readable project state
-├── lessons.md        ← Comprehensive lessons learned
+├── lessons.md        ← Comprehensive lessons learned (11 critical lessons)
 └── todo.md           ← Human-readable progress tracker
 ```
 
@@ -87,6 +90,8 @@ PDF → Extract (PyMuPDF) → Chapter Map → Card Writing (Claude sub-agents)
 | `validate_density.py` | Card density + cloze distribution checker |
 | `fix_missing_chapters.py` | Patch missing NelsonChapter/ChapterURL in APKGs |
 | `fix_cloze_distribution.py` | Surgically reduce excess cloze counts |
+| `audit_tables.py` | Table content coverage audit (PyMuPDF table detection vs cards) |
+| `merge_apkg.py` | Merge all batch APKGs into single `nelson_complete.apkg` |
 
 ## Dependencies
 
@@ -100,7 +105,9 @@ pip install pymupdf genanki
 - **Cards ≤3 clozes**: >70% (target ≥50%)
 - **Cards at max 5 clozes**: <5% (target ≤20%)
 - **All 7 fields populated**: 100%
-- **Strict verification**: 36/36 PASS
+- **Strict verification**: 37/37 PASS (including supplementary gap-fill)
+- **Table coverage audit**: 96.6% (0 RED, 1 YELLOW, 196 GREEN pages)
+- **External audit**: Gemini Pro 3.1 confirmed 142 gap-fill cards across 12 pages
 
 ## Built With
 

@@ -9,7 +9,17 @@ output/backup/
 output/backup_cloze_fix/
 output/needed redoing/
 
+# === Gemini audit — only commit scripts + results, not duplicated cards/PDF ===
+Gemini audit/batch*_cards.md
+Gemini audit/pilot*_cards.md
+Gemini audit/source.pdf
+Gemini audit/ai_review_task.txt
+Gemini audit/page203_cards.txt
+Gemini audit/report_filtered.txt
+Gemini audit/tmp_check.py
+
 # === Root-level temp files ===
+nul
 *.tmp.*
 
 # === Archive of earlier attempts ===

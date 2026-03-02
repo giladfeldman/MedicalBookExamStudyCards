@@ -1,6 +1,28 @@
 # Nelson Anki Flashcards — Progress Tracker
 
-## Status: COMPLETE (265/265 pages, 4,357 notes, 13,795 clozes)
+## Status: COMPLETE (265/265 pages, 4,499 notes, 14,277 clozes)
+
+## Supplementary Gap-Fill (2026-03-02)
+
+After independent audit by Gemini Pro 3.1 and systematic root cause analysis, 142 supplementary cards were generated to fill confirmed gaps across 12 pages.
+
+| Gap | Pages | Notes | Clozes | Root Cause |
+|-----|-------|-------|--------|------------|
+| CSF reference values | 7 | 2 | 6 | Last-row omission |
+| TST population tiers | 17 | 4 | 15 | Over-summarization |
+| Antibiotics (bottom half) | 47 | 11 | 38 | Bottom-of-page truncation |
+| Spina bifida markers | 52 | 2 | 9 | Selective omission |
+| Anemia classification table | 113 | 19 | 65 | Image-based table |
+| Membranopathies details | 116 | 15 | 52 | Dense table under-coverage |
+| PPI side effects | 144 | 1 | 5 | Last-sentence omission |
+| Prolactin target organ | 180 | 1 | 3 | Table cell omission |
+| GH treatment details | 182 | 17 | 53 | Bottom-of-page truncation |
+| Girl delayed puberty | 185 | 16 | 58 | Partial algorithm coverage |
+| PCOS + OCP contraindications | 186 | 26 | 92 | Image-only tables |
+| CAH variant comparison | 189 | 28 | 86 | Bottom-of-page truncation |
+| **TOTAL** | **12 pages** | **142** | **482** | |
+
+APKG: `output/sup_gap_fill.apkg` | Cards: `output/sup_gap_fill_cards.md`
 
 ## Batch Progress
 

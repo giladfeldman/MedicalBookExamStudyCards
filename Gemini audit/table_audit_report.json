@@ -1,0 +1,3054 @@
+{
+  "summary": {
+    "pages_with_tables": 197,
+    "total_meaningful_cells": 3602,
+    "total_covered_cells": 3466,
+    "overall_coverage": 0.962,
+    "red_pages": 0,
+    "yellow_pages": 1,
+    "green_pages": 196
+  },
+  "pages": [
+    {
+      "page": 2,
+      "n_tables": 1,
+      "total_cells": 8,
+      "trivial_cells": 0,
+      "meaningful_cells": 6,
+      "covered_cells": 6,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 3,
+      "n_tables": 1,
+      "total_cells": 16,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 6,
+      "n_tables": 1,
+      "total_cells": 8,
+      "trivial_cells": 0,
+      "meaningful_cells": 6,
+      "covered_cells": 6,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 7,
+      "n_tables": 1,
+      "total_cells": 36,
+      "trivial_cells": 0,
+      "meaningful_cells": 35,
+      "covered_cells": 27,
+      "coverage": 0.771,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 10,
+          "col": 6,
+          "text": "מאפייני CSFביילודים (טבלה 3.202)"
+        },
+        {
+          "table": 0,
+          "row": 12,
+          "col": 6,
+          "text": "oעד 28ימים: 18 תאים/מ\"מ3"
+        },
+        {
+          "table": 0,
+          "row": 13,
+          "col": 6,
+          "text": "90o-29ימים: 8 תאים/ מ\"מ3"
+        },
+        {
+          "table": 0,
+          "row": 15,
+          "col": 6,
+          "text": "oעד 28ימים: 131 מ\"ג/ד\"ל"
+        },
+        {
+          "table": 0,
+          "row": 16,
+          "col": 6,
+          "text": "60o-29ימים: 105 מ\"ג/ד\"ל"
+        },
+        {
+          "table": 0,
+          "row": 17,
+          "col": 6,
+          "text": "90o-61ימים: 71 מ\"ג/ד\"ל"
+        },
+        {
+          "table": 0,
+          "row": 19,
+          "col": 6,
+          "text": "oעד 60ימים: 30 מ\"ג/ד\"ל"
+        },
+        {
+          "table": 0,
+          "row": 20,
+          "col": 6,
+          "text": "90o-61ימים: 5.33 מ\"ג/ד\"ל"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "n_tables": 1,
+      "total_cells": 19,
+      "trivial_cells": 0,
+      "meaningful_cells": 16,
+      "covered_cells": 16,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 9,
+      "n_tables": 1,
+      "total_cells": 19,
+      "trivial_cells": 0,
+      "meaningful_cells": 16,
+      "covered_cells": 16,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 11,
+      "n_tables": 1,
+      "total_cells": 17,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 12,
+      "n_tables": 1,
+      "total_cells": 17,
+      "trivial_cells": 0,
+      "meaningful_cells": 15,
+      "covered_cells": 15,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 13,
+      "n_tables": 1,
+      "total_cells": 18,
+      "trivial_cells": 0,
+      "meaningful_cells": 15,
+      "covered_cells": 15,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 14,
+      "n_tables": 1,
+      "total_cells": 29,
+      "trivial_cells": 0,
+      "meaningful_cells": 27,
+      "covered_cells": 27,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 15,
+      "n_tables": 1,
+      "total_cells": 25,
+      "trivial_cells": 0,
+      "meaningful_cells": 21,
+      "covered_cells": 21,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 16,
+      "n_tables": 1,
+      "total_cells": 16,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 13,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 17,
+      "n_tables": 1,
+      "total_cells": 25,
+      "trivial_cells": 0,
+      "meaningful_cells": 24,
+      "covered_cells": 22,
+      "coverage": 0.917,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 3,
+          "col": 1,
+          "text": "פרשנות התבחין העורי"
+        },
+        {
+          "table": 0,
+          "row": 11,
+          "col": 1,
+          "text": "דיירי בתי-אבות, אסירים, מהגרים."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "n_tables": 1,
+      "total_cells": 20,
+      "trivial_cells": 0,
+      "meaningful_cells": 17,
+      "covered_cells": 17,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 19,
+      "n_tables": 1,
+      "total_cells": 22,
+      "trivial_cells": 0,
+      "meaningful_cells": 21,
+      "covered_cells": 21,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 20,
+      "n_tables": 1,
+      "total_cells": 11,
+      "trivial_cells": 0,
+      "meaningful_cells": 9,
+      "covered_cells": 9,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 21,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 22,
+      "n_tables": 1,
+      "total_cells": 16,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 13,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 23,
+      "n_tables": 1,
+      "total_cells": 13,
+      "trivial_cells": 0,
+      "meaningful_cells": 10,
+      "covered_cells": 10,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 24,
+      "n_tables": 1,
+      "total_cells": 22,
+      "trivial_cells": 0,
+      "meaningful_cells": 20,
+      "covered_cells": 20,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 25,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 11,
+      "covered_cells": 11,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 26,
+      "n_tables": 1,
+      "total_cells": 17,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 27,
+      "n_tables": 1,
+      "total_cells": 21,
+      "trivial_cells": 0,
+      "meaningful_cells": 18,
+      "covered_cells": 18,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 32,
+      "n_tables": 1,
+      "total_cells": 26,
+      "trivial_cells": 0,
+      "meaningful_cells": 23,
+      "covered_cells": 23,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 33,
+      "n_tables": 1,
+      "total_cells": 20,
+      "trivial_cells": 0,
+      "meaningful_cells": 16,
+      "covered_cells": 16,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 34,
+      "n_tables": 1,
+      "total_cells": 20,
+      "trivial_cells": 0,
+      "meaningful_cells": 17,
+      "covered_cells": 17,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 35,
+      "n_tables": 1,
+      "total_cells": 16,
+      "trivial_cells": 0,
+      "meaningful_cells": 15,
+      "covered_cells": 15,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 36,
+      "n_tables": 1,
+      "total_cells": 22,
+      "trivial_cells": 0,
+      "meaningful_cells": 21,
+      "covered_cells": 21,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 37,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 38,
+      "n_tables": 1,
+      "total_cells": 22,
+      "trivial_cells": 0,
+      "meaningful_cells": 19,
+      "covered_cells": 19,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 39,
+      "n_tables": 1,
+      "total_cells": 27,
+      "trivial_cells": 0,
+      "meaningful_cells": 26,
+      "covered_cells": 26,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 41,
+      "n_tables": 1,
+      "total_cells": 7,
+      "trivial_cells": 0,
+      "meaningful_cells": 6,
+      "covered_cells": 6,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 42,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 10,
+      "covered_cells": 10,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 43,
+      "n_tables": 1,
+      "total_cells": 22,
+      "trivial_cells": 0,
+      "meaningful_cells": 19,
+      "covered_cells": 19,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 44,
+      "n_tables": 1,
+      "total_cells": 16,
+      "trivial_cells": 0,
+      "meaningful_cells": 12,
+      "covered_cells": 12,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 45,
+      "n_tables": 1,
+      "total_cells": 42,
+      "trivial_cells": 2,
+      "meaningful_cells": 35,
+      "covered_cells": 33,
+      "coverage": 0.943,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 17,
+          "text": "Cell wall Synthesis Inhibitors"
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "col": 14,
+          "text": "Cephalosporins"
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 12,
+      "coverage": 0.857,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 5,
+          "text": "Carbapnems"
+        },
+        {
+          "table": 0,
+          "row": 8,
+          "col": 7,
+          "text": "Glycopeptides"
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "n_tables": 1,
+      "total_cells": 49,
+      "trivial_cells": 0,
+      "meaningful_cells": 44,
+      "covered_cells": 36,
+      "coverage": 0.818,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 2,
+          "col": 13,
+          "text": "Gentamycin"
+        },
+        {
+          "table": 0,
+          "row": 7,
+          "col": 13,
+          "text": "Neomycin"
+        },
+        {
+          "table": 0,
+          "row": 9,
+          "col": 15,
+          "text": "Tetracyclins"
+        },
+        {
+          "table": 0,
+          "row": 13,
+          "col": 15,
+          "text": "Macrolids"
+        },
+        {
+          "table": 0,
+          "row": 23,
+          "col": 13,
+          "text": "Chloramphenicol"
+        },
+        {
+          "table": 0,
+          "row": 25,
+          "col": 0,
+          "text": " לא לשילוב עם SSRI(סינדרום סרוטונין)\nופריפרית (בשימוש ממושך)\n דיכוי מח-עצם ונוירופתיה אופטית"
+        },
+        {
+          "table": 0,
+          "row": 26,
+          "col": 13,
+          "text": "Oxazolidonones:"
+        },
+        {
+          "table": 0,
+          "row": 27,
+          "col": 13,
+          "text": "Linezolid"
+        }
+      ]
+    },
+    {
+      "page": 48,
+      "n_tables": 1,
+      "total_cells": 37,
+      "trivial_cells": 0,
+      "meaningful_cells": 32,
+      "covered_cells": 31,
+      "coverage": 0.969,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 15,
+          "col": 13,
+          "text": "Rifampycin"
+        }
+      ]
+    },
+    {
+      "page": 49,
+      "n_tables": 1,
+      "total_cells": 63,
+      "trivial_cells": 0,
+      "meaningful_cells": 58,
+      "covered_cells": 58,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 52,
+      "n_tables": 2,
+      "total_cells": 21,
+      "trivial_cells": 0,
+      "meaningful_cells": 19,
+      "covered_cells": 18,
+      "coverage": 0.947,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 1,
+          "row": 5,
+          "col": 1,
+          "text": "פיגמנטרי או סטייה של הקפל הגלוטאלי."
+        }
+      ]
+    },
+    {
+      "page": 53,
+      "n_tables": 1,
+      "total_cells": 39,
+      "trivial_cells": 1,
+      "meaningful_cells": 37,
+      "covered_cells": 36,
+      "coverage": 0.973,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 10,
+          "col": 7,
+          "text": "בעתיד (בממוצע %5):"
+        }
+      ]
+    },
+    {
+      "page": 54,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 1,
+      "meaningful_cells": 8,
+      "covered_cells": 8,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 56,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 13,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 57,
+      "n_tables": 1,
+      "total_cells": 7,
+      "trivial_cells": 0,
+      "meaningful_cells": 7,
+      "covered_cells": 7,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 58,
+      "n_tables": 1,
+      "total_cells": 23,
+      "trivial_cells": 0,
+      "meaningful_cells": 22,
+      "covered_cells": 21,
+      "coverage": 0.955,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 4,
+          "text": "Tuberous Sclerosis"
+        }
+      ]
+    },
+    {
+      "page": 59,
+      "n_tables": 1,
+      "total_cells": 16,
+      "trivial_cells": 0,
+      "meaningful_cells": 15,
+      "covered_cells": 13,
+      "coverage": 0.867,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 7,
+          "text": "כוראה"
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "col": 1,
+          "text": "רעד"
+        }
+      ]
+    },
+    {
+      "page": 60,
+      "n_tables": 1,
+      "total_cells": 11,
+      "trivial_cells": 0,
+      "meaningful_cells": 10,
+      "covered_cells": 9,
+      "coverage": 0.9,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 7,
+          "text": "שיתוק מוחין (CP)"
+        }
+      ]
+    },
+    {
+      "page": 61,
+      "n_tables": 1,
+      "total_cells": 20,
+      "trivial_cells": 0,
+      "meaningful_cells": 20,
+      "covered_cells": 20,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 62,
+      "n_tables": 1,
+      "total_cells": 21,
+      "trivial_cells": 0,
+      "meaningful_cells": 21,
+      "covered_cells": 19,
+      "coverage": 0.905,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "MOG-Associated Disorders"
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "col": 4,
+          "text": "Neuromyelitis Optica Spectrum Disorders (NMO-SD)"
+        }
+      ]
+    },
+    {
+      "page": 63,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 13,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 64,
+      "n_tables": 1,
+      "total_cells": 22,
+      "trivial_cells": 0,
+      "meaningful_cells": 21,
+      "covered_cells": 21,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 65,
+      "n_tables": 1,
+      "total_cells": 17,
+      "trivial_cells": 0,
+      "meaningful_cells": 16,
+      "covered_cells": 14,
+      "coverage": 0.875,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 4,
+          "text": "Spinal Muscular Atrophy (SMA)"
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "col": 7,
+          "text": "Myasthenia Gravis"
+        }
+      ]
+    },
+    {
+      "page": 66,
+      "n_tables": 1,
+      "total_cells": 10,
+      "trivial_cells": 0,
+      "meaningful_cells": 8,
+      "covered_cells": 8,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 68,
+      "n_tables": 1,
+      "total_cells": 7,
+      "trivial_cells": 0,
+      "meaningful_cells": 6,
+      "covered_cells": 5,
+      "coverage": 0.833,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 4,
+          "text": "סירקולצית המעבר"
+        }
+      ]
+    },
+    {
+      "page": 69,
+      "n_tables": 1,
+      "total_cells": 7,
+      "trivial_cells": 0,
+      "meaningful_cells": 6,
+      "covered_cells": 6,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 70,
+      "n_tables": 1,
+      "total_cells": 13,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 12,
+      "coverage": 0.923,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "נוספים"
+        }
+      ]
+    },
+    {
+      "page": 71,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 9,
+      "covered_cells": 9,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 72,
+      "n_tables": 1,
+      "total_cells": 13,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 13,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 73,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 9,
+      "covered_cells": 9,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 74,
+      "n_tables": 1,
+      "total_cells": 10,
+      "trivial_cells": 0,
+      "meaningful_cells": 9,
+      "covered_cells": 8,
+      "coverage": 0.889,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "רגורגיטציה טריקוספידלית (TR)"
+        }
+      ]
+    },
+    {
+      "page": 75,
+      "n_tables": 2,
+      "total_cells": 21,
+      "trivial_cells": 1,
+      "meaningful_cells": 20,
+      "covered_cells": 20,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 76,
+      "n_tables": 1,
+      "total_cells": 10,
+      "trivial_cells": 0,
+      "meaningful_cells": 7,
+      "covered_cells": 7,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 77,
+      "n_tables": 1,
+      "total_cells": 18,
+      "trivial_cells": 0,
+      "meaningful_cells": 18,
+      "covered_cells": 18,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 78,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 12,
+      "covered_cells": 12,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 83,
+      "n_tables": 2,
+      "total_cells": 27,
+      "trivial_cells": 0,
+      "meaningful_cells": 24,
+      "covered_cells": 20,
+      "coverage": 0.833,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 4,
+          "col": 2,
+          "text": "מוקדמות"
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "col": 3,
+          "text": "עליתיות"
+        },
+        {
+          "table": 1,
+          "row": 2,
+          "col": 5,
+          "text": "nd 2"
+        },
+        {
+          "table": 1,
+          "row": 5,
+          "col": 5,
+          "text": "rd 3"
+        }
+      ]
+    },
+    {
+      "page": 84,
+      "n_tables": 1,
+      "total_cells": 17,
+      "trivial_cells": 0,
+      "meaningful_cells": 17,
+      "covered_cells": 17,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 85,
+      "n_tables": 1,
+      "total_cells": 9,
+      "trivial_cells": 2,
+      "meaningful_cells": 7,
+      "covered_cells": 6,
+      "coverage": 0.857,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 0,
+          "col": 1,
+          "text": "Ventricular Arrythmias: Wide QRS Complex"
+        }
+      ]
+    },
+    {
+      "page": 86,
+      "n_tables": 1,
+      "total_cells": 19,
+      "trivial_cells": 0,
+      "meaningful_cells": 18,
+      "covered_cells": 15,
+      "coverage": 0.833,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "Restrictive Cardiomypathy (RCM)"
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "col": 4,
+          "text": "Hypertrophic Cardiomypathy (HCM)"
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "col": 7,
+          "text": "Dilated Cardiomypathy (DCM)"
+        }
+      ]
+    },
+    {
+      "page": 87,
+      "n_tables": 2,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 12,
+      "covered_cells": 12,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 89,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 10,
+      "covered_cells": 10,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 90,
+      "n_tables": 2,
+      "total_cells": 33,
+      "trivial_cells": 0,
+      "meaningful_cells": 31,
+      "covered_cells": 31,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 91,
+      "n_tables": 1,
+      "total_cells": 17,
+      "trivial_cells": 0,
+      "meaningful_cells": 15,
+      "covered_cells": 15,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 92,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 93,
+      "n_tables": 1,
+      "total_cells": 21,
+      "trivial_cells": 0,
+      "meaningful_cells": 20,
+      "covered_cells": 20,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 94,
+      "n_tables": 2,
+      "total_cells": 26,
+      "trivial_cells": 0,
+      "meaningful_cells": 24,
+      "covered_cells": 24,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 95,
+      "n_tables": 1,
+      "total_cells": 32,
+      "trivial_cells": 0,
+      "meaningful_cells": 30,
+      "covered_cells": 30,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 96,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 11,
+      "covered_cells": 10,
+      "coverage": 0.909,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 7,
+          "text": "Congenital Central Hypoventilation Syndrome (CCHS)"
+        }
+      ]
+    },
+    {
+      "page": 97,
+      "n_tables": 1,
+      "total_cells": 21,
+      "trivial_cells": 0,
+      "meaningful_cells": 20,
+      "covered_cells": 16,
+      "coverage": 0.8,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 9,
+          "col": 1,
+          "text": "Step 5/6"
+        },
+        {
+          "table": 0,
+          "row": 9,
+          "col": 4,
+          "text": "Step 3/4"
+        },
+        {
+          "table": 0,
+          "row": 9,
+          "col": 7,
+          "text": "Step 2"
+        },
+        {
+          "table": 0,
+          "row": 9,
+          "col": 10,
+          "text": "Step 1"
+        }
+      ]
+    },
+    {
+      "page": 98,
+      "n_tables": 1,
+      "total_cells": 46,
+      "trivial_cells": 1,
+      "meaningful_cells": 44,
+      "covered_cells": 42,
+      "coverage": 0.955,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 15,
+          "col": 8,
+          "text": "(מוסקרינים)"
+        },
+        {
+          "table": 0,
+          "row": 33,
+          "col": 5,
+          "text": "טיפולים ביולוגיים"
+        }
+      ]
+    },
+    {
+      "page": 99,
+      "n_tables": 2,
+      "total_cells": 37,
+      "trivial_cells": 0,
+      "meaningful_cells": 30,
+      "covered_cells": 29,
+      "coverage": 0.967,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 16,
+          "text": "אינטרמיטנטנית)"
+        }
+      ]
+    },
+    {
+      "page": 100,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 12,
+      "covered_cells": 12,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 102,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 9,
+      "covered_cells": 9,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 103,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 11,
+      "covered_cells": 11,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 107,
+      "n_tables": 2,
+      "total_cells": 33,
+      "trivial_cells": 0,
+      "meaningful_cells": 32,
+      "covered_cells": 32,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 108,
+      "n_tables": 2,
+      "total_cells": 29,
+      "trivial_cells": 0,
+      "meaningful_cells": 27,
+      "covered_cells": 27,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 109,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 11,
+      "covered_cells": 11,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 110,
+      "n_tables": 1,
+      "total_cells": 16,
+      "trivial_cells": 0,
+      "meaningful_cells": 15,
+      "covered_cells": 14,
+      "coverage": 0.933,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "Chronic Granulomatous Disease (CGD)"
+        }
+      ]
+    },
+    {
+      "page": 111,
+      "n_tables": 1,
+      "total_cells": 19,
+      "trivial_cells": 0,
+      "meaningful_cells": 18,
+      "covered_cells": 18,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 112,
+      "n_tables": 1,
+      "total_cells": 13,
+      "trivial_cells": 0,
+      "meaningful_cells": 10,
+      "covered_cells": 10,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 114,
+      "n_tables": 1,
+      "total_cells": 90,
+      "trivial_cells": 2,
+      "meaningful_cells": 87,
+      "covered_cells": 81,
+      "coverage": 0.931,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 12,
+          "col": 1,
+          "text": "EPOנמוכות)"
+        },
+        {
+          "table": 0,
+          "row": 13,
+          "col": 4,
+          "text": "שכיחים (בגלל הדלקת הכרונית)."
+        },
+        {
+          "table": 0,
+          "row": 14,
+          "col": 7,
+          "text": " מח עצם: הידלדלות פרוקורסורים,\nבטסיות."
+        },
+        {
+          "table": 0,
+          "row": 14,
+          "col": 10,
+          "text": " ADA\nהכדוריות תקינים."
+        },
+        {
+          "table": 0,
+          "row": 17,
+          "col": 4,
+          "text": "אריתרואידיים."
+        },
+        {
+          "table": 0,
+          "row": 18,
+          "col": 18,
+          "text": "אריתרואידיים."
+        }
+      ]
+    },
+    {
+      "page": 115,
+      "n_tables": 1,
+      "total_cells": 34,
+      "trivial_cells": 0,
+      "meaningful_cells": 33,
+      "covered_cells": 31,
+      "coverage": 0.939,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 13,
+          "col": 1,
+          "text": " מח-עצם: צביעה מועטה לברזל. זו הדרך הכי מדויקת"
+        },
+        {
+          "table": 0,
+          "row": 14,
+          "col": 1,
+          "text": "להערכת IDAאך יקרה, פולשנית."
+        }
+      ]
+    },
+    {
+      "page": 116,
+      "n_tables": 1,
+      "total_cells": 147,
+      "trivial_cells": 1,
+      "meaningful_cells": 145,
+      "covered_cells": 134,
+      "coverage": 0.924,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "ממברנופתיות"
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "col": 4,
+          "text": "Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        {
+          "table": 0,
+          "row": 6,
+          "col": 1,
+          "text": " במחלת כבד, נובעת עקב עודף כולסטרול חופשי הנגרם"
+        },
+        {
+          "table": 0,
+          "row": 11,
+          "col": 4,
+          "text": "וכתוצאה מכך הפעלה קונסטיטוטיבית והרס של תאים."
+        },
+        {
+          "table": 0,
+          "row": 24,
+          "col": 1,
+          "text": "פריפרית, כוראה והגלת טחול. בד\"כ מעל %3אקנתוציטים"
+        },
+        {
+          "table": 0,
+          "row": 29,
+          "col": 1,
+          "text": "מגוון ביטויים נוירולוגיים."
+        },
+        {
+          "table": 0,
+          "row": 37,
+          "col": 4,
+          "text": "מיקרוציטית."
+        },
+        {
+          "table": 0,
+          "row": 37,
+          "col": 10,
+          "text": "(<dL/35g). RDWנמוך (>14)."
+        },
+        {
+          "table": 0,
+          "row": 44,
+          "col": 10,
+          "text": "%15 ורטיקולוציטים."
+        },
+        {
+          "table": 0,
+          "row": 53,
+          "col": 10,
+          "text": "אחת-לשנה עם דגש על גדילה, יכולת לבצע מאמצים ומעקב"
+        }
+      ]
+    },
+    {
+      "page": 117,
+      "n_tables": 1,
+      "total_cells": 24,
+      "trivial_cells": 0,
+      "meaningful_cells": 23,
+      "covered_cells": 23,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 118,
+      "n_tables": 1,
+      "total_cells": 44,
+      "trivial_cells": 0,
+      "meaningful_cells": 42,
+      "covered_cells": 41,
+      "coverage": 0.976,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 7,
+          "text": "על-רקע פגמים אנזימטיים"
+        }
+      ]
+    },
+    {
+      "page": 120,
+      "n_tables": 1,
+      "total_cells": 19,
+      "trivial_cells": 0,
+      "meaningful_cells": 18,
+      "covered_cells": 18,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 121,
+      "n_tables": 1,
+      "total_cells": 29,
+      "trivial_cells": 0,
+      "meaningful_cells": 28,
+      "covered_cells": 28,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 122,
+      "n_tables": 1,
+      "total_cells": 21,
+      "trivial_cells": 0,
+      "meaningful_cells": 20,
+      "covered_cells": 19,
+      "coverage": 0.95,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 10,
+          "text": "סינדרומים תרומבוציטופניים מולדים"
+        }
+      ]
+    },
+    {
+      "page": 124,
+      "n_tables": 1,
+      "total_cells": 25,
+      "trivial_cells": 0,
+      "meaningful_cells": 24,
+      "covered_cells": 23,
+      "coverage": 0.958,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 2,
+          "col": 17,
+          "text": "קלסיפיקציה וקליניקה"
+        }
+      ]
+    },
+    {
+      "page": 125,
+      "n_tables": 1,
+      "total_cells": 23,
+      "trivial_cells": 0,
+      "meaningful_cells": 19,
+      "covered_cells": 19,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 126,
+      "n_tables": 1,
+      "total_cells": 20,
+      "trivial_cells": 0,
+      "meaningful_cells": 16,
+      "covered_cells": 16,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 127,
+      "n_tables": 1,
+      "total_cells": 16,
+      "trivial_cells": 1,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 128,
+      "n_tables": 1,
+      "total_cells": 16,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 130,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 131,
+      "n_tables": 1,
+      "total_cells": 10,
+      "trivial_cells": 0,
+      "meaningful_cells": 6,
+      "covered_cells": 6,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 132,
+      "n_tables": 1,
+      "total_cells": 28,
+      "trivial_cells": 0,
+      "meaningful_cells": 27,
+      "covered_cells": 27,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 133,
+      "n_tables": 1,
+      "total_cells": 6,
+      "trivial_cells": 0,
+      "meaningful_cells": 5,
+      "covered_cells": 5,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 134,
+      "n_tables": 1,
+      "total_cells": 20,
+      "trivial_cells": 0,
+      "meaningful_cells": 15,
+      "covered_cells": 15,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 135,
+      "n_tables": 1,
+      "total_cells": 20,
+      "trivial_cells": 0,
+      "meaningful_cells": 19,
+      "covered_cells": 18,
+      "coverage": 0.947,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "הפטובסלטומה"
+        }
+      ]
+    },
+    {
+      "page": 136,
+      "n_tables": 1,
+      "total_cells": 23,
+      "trivial_cells": 0,
+      "meaningful_cells": 22,
+      "covered_cells": 22,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 137,
+      "n_tables": 1,
+      "total_cells": 13,
+      "trivial_cells": 0,
+      "meaningful_cells": 12,
+      "covered_cells": 11,
+      "coverage": 0.917,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "Hemophagocytic Lymphohistiocytosis (HLH)"
+        }
+      ]
+    },
+    {
+      "page": 138,
+      "n_tables": 1,
+      "total_cells": 21,
+      "trivial_cells": 0,
+      "meaningful_cells": 20,
+      "covered_cells": 20,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 139,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 13,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 140,
+      "n_tables": 1,
+      "total_cells": 21,
+      "trivial_cells": 0,
+      "meaningful_cells": 20,
+      "covered_cells": 20,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 141,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 11,
+      "covered_cells": 11,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 142,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 143,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 11,
+      "covered_cells": 10,
+      "coverage": 0.909,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 4,
+          "text": "סיבות נוספות"
+        }
+      ]
+    },
+    {
+      "page": 144,
+      "n_tables": 1,
+      "total_cells": 23,
+      "trivial_cells": 0,
+      "meaningful_cells": 22,
+      "covered_cells": 19,
+      "coverage": 0.864,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 9,
+          "col": 4,
+          "text": " ייצוב המודינמי;"
+        },
+        {
+          "table": 0,
+          "row": 11,
+          "col": 1,
+          "text": "הדק. יש מידע סותר באשר לעליה בשכיחות CAP ו-VAP ו-CDI."
+        },
+        {
+          "table": 0,
+          "row": 12,
+          "col": 4,
+          "text": "הויזואליזציה;"
+        }
+      ]
+    },
+    {
+      "page": 145,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 13,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 146,
+      "n_tables": 1,
+      "total_cells": 18,
+      "trivial_cells": 0,
+      "meaningful_cells": 18,
+      "covered_cells": 17,
+      "coverage": 0.944,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 4,
+          "col": 3,
+          "text": "היציאות=20: כמות גדולה (מעל מחצית מהיציאה)=30;"
+        }
+      ]
+    },
+    {
+      "page": 147,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 13,
+      "coverage": 0.929,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 3,
+          "col": 13,
+          "text": "(מספר נוטריינטים)"
+        }
+      ]
+    },
+    {
+      "page": 148,
+      "n_tables": 1,
+      "total_cells": 8,
+      "trivial_cells": 0,
+      "meaningful_cells": 7,
+      "covered_cells": 7,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 149,
+      "n_tables": 1,
+      "total_cells": 28,
+      "trivial_cells": 0,
+      "meaningful_cells": 27,
+      "covered_cells": 27,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 150,
+      "n_tables": 1,
+      "total_cells": 23,
+      "trivial_cells": 0,
+      "meaningful_cells": 20,
+      "covered_cells": 19,
+      "coverage": 0.95,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 4,
+          "text": "Funcional Dyspepesia"
+        }
+      ]
+    },
+    {
+      "page": 151,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 11,
+      "covered_cells": 11,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 153,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 13,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 154,
+      "n_tables": 1,
+      "total_cells": 17,
+      "trivial_cells": 0,
+      "meaningful_cells": 16,
+      "covered_cells": 15,
+      "coverage": 0.938,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "חסר ב-Trypsin-1Antiα"
+        }
+      ]
+    },
+    {
+      "page": 155,
+      "n_tables": 1,
+      "total_cells": 10,
+      "trivial_cells": 0,
+      "meaningful_cells": 8,
+      "covered_cells": 8,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 156,
+      "n_tables": 1,
+      "total_cells": 9,
+      "trivial_cells": 0,
+      "meaningful_cells": 8,
+      "covered_cells": 7,
+      "coverage": 0.875,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 7,
+          "text": "אנפדיציטיס"
+        }
+      ]
+    },
+    {
+      "page": 157,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 158,
+      "n_tables": 1,
+      "total_cells": 8,
+      "trivial_cells": 0,
+      "meaningful_cells": 6,
+      "covered_cells": 6,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 159,
+      "n_tables": 1,
+      "total_cells": 28,
+      "trivial_cells": 0,
+      "meaningful_cells": 26,
+      "covered_cells": 25,
+      "coverage": 0.962,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "חומצה אסקורבית (C)"
+        }
+      ]
+    },
+    {
+      "page": 160,
+      "n_tables": 1,
+      "total_cells": 30,
+      "trivial_cells": 0,
+      "meaningful_cells": 29,
+      "covered_cells": 29,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 161,
+      "n_tables": 1,
+      "total_cells": 19,
+      "trivial_cells": 0,
+      "meaningful_cells": 18,
+      "covered_cells": 18,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 162,
+      "n_tables": 1,
+      "total_cells": 6,
+      "trivial_cells": 0,
+      "meaningful_cells": 5,
+      "covered_cells": 5,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 163,
+      "n_tables": 1,
+      "total_cells": 9,
+      "trivial_cells": 0,
+      "meaningful_cells": 8,
+      "covered_cells": 8,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 164,
+      "n_tables": 1,
+      "total_cells": 21,
+      "trivial_cells": 0,
+      "meaningful_cells": 21,
+      "covered_cells": 21,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 165,
+      "n_tables": 1,
+      "total_cells": 41,
+      "trivial_cells": 1,
+      "meaningful_cells": 37,
+      "covered_cells": 31,
+      "coverage": 0.838,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 0,
+          "col": 6,
+          "text": "Membranoproliferative (mesangiocapillary) GN"
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "col": 1,
+          "text": "ושניוניות עם אבדן מהיר של התפקוד הכלייתי:"
+        },
+        {
+          "table": 0,
+          "row": 8,
+          "col": 1,
+          "text": "Membranoproliferative GN o"
+        },
+        {
+          "table": 0,
+          "row": 14,
+          "col": 1,
+          "text": " מאוחר יותר –פיברוזיס."
+        },
+        {
+          "table": 0,
+          "row": 17,
+          "col": 1,
+          "text": "אקוטית"
+        },
+        {
+          "table": 0,
+          "row": 25,
+          "col": 1,
+          "text": "ספונטנית."
+        }
+      ]
+    },
+    {
+      "page": 166,
+      "n_tables": 1,
+      "total_cells": 20,
+      "trivial_cells": 0,
+      "meaningful_cells": 19,
+      "covered_cells": 19,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 168,
+      "n_tables": 1,
+      "total_cells": 26,
+      "trivial_cells": 0,
+      "meaningful_cells": 25,
+      "covered_cells": 21,
+      "coverage": 0.84,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 7,
+          "text": "מחלת כליה פוליצסטית (PKD)"
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "col": 4,
+          "text": "Nephronophtisis"
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "col": 7,
+          "text": "AR-PKD"
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "col": 10,
+          "text": "AD- PKD"
+        }
+      ]
+    },
+    {
+      "page": 170,
+      "n_tables": 1,
+      "total_cells": 28,
+      "trivial_cells": 0,
+      "meaningful_cells": 27,
+      "covered_cells": 27,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 171,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 11,
+      "covered_cells": 11,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 175,
+      "n_tables": 1,
+      "total_cells": 17,
+      "trivial_cells": 0,
+      "meaningful_cells": 16,
+      "covered_cells": 16,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 176,
+      "n_tables": 1,
+      "total_cells": 19,
+      "trivial_cells": 0,
+      "meaningful_cells": 15,
+      "covered_cells": 15,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 177,
+      "n_tables": 1,
+      "total_cells": 21,
+      "trivial_cells": 0,
+      "meaningful_cells": 20,
+      "covered_cells": 19,
+      "coverage": 0.95,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 4,
+          "col": 4,
+          "text": "Strvite"
+        }
+      ]
+    },
+    {
+      "page": 178,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 179,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 9,
+      "covered_cells": 9,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 180,
+      "n_tables": 2,
+      "total_cells": 39,
+      "trivial_cells": 0,
+      "meaningful_cells": 37,
+      "covered_cells": 36,
+      "coverage": 0.973,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 4,
+          "col": 6,
+          "text": " רקמת השד"
+        }
+      ]
+    },
+    {
+      "page": 181,
+      "n_tables": 1,
+      "total_cells": 23,
+      "trivial_cells": 0,
+      "meaningful_cells": 21,
+      "covered_cells": 18,
+      "coverage": 0.857,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 3,
+          "col": 4,
+          "text": "חוסר תגובה ל-GH"
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "col": 10,
+          "text": "הפרעות גנטיות"
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "col": 16,
+          "text": "הפרעות גנטיות"
+        }
+      ]
+    },
+    {
+      "page": 183,
+      "n_tables": 1,
+      "total_cells": 17,
+      "trivial_cells": 0,
+      "meaningful_cells": 16,
+      "covered_cells": 15,
+      "coverage": 0.938,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 2,
+          "col": 1,
+          "text": "סיבות נוספות"
+        }
+      ]
+    },
+    {
+      "page": 184,
+      "n_tables": 2,
+      "total_cells": 19,
+      "trivial_cells": 1,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 188,
+      "n_tables": 1,
+      "total_cells": 7,
+      "trivial_cells": 0,
+      "meaningful_cells": 6,
+      "covered_cells": 4,
+      "coverage": 0.667,
+      "flag": "YELLOW",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 2,
+          "col": 1,
+          "text": "נרכשת"
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "col": 4,
+          "text": "מורשת"
+        }
+      ]
+    },
+    {
+      "page": 189,
+      "n_tables": 2,
+      "total_cells": 23,
+      "trivial_cells": 0,
+      "meaningful_cells": 19,
+      "covered_cells": 18,
+      "coverage": 0.947,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 1,
+          "row": 2,
+          "col": 3,
+          "text": "DHEASמוגברות מאד.\nפרגנולון, OH-17-פרגנולון ו-\n הסימן המעבדתי הקלסי הוא רמות\n פחות מ-%2מהמקרים."
+        }
+      ]
+    },
+    {
+      "page": 190,
+      "n_tables": 1,
+      "total_cells": 12,
+      "trivial_cells": 0,
+      "meaningful_cells": 10,
+      "covered_cells": 9,
+      "coverage": 0.9,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 2,
+          "col": 4,
+          "text": "תת-ל\"ד,"
+        }
+      ]
+    },
+    {
+      "page": 191,
+      "n_tables": 1,
+      "total_cells": 18,
+      "trivial_cells": 0,
+      "meaningful_cells": 17,
+      "covered_cells": 16,
+      "coverage": 0.941,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 3,
+          "col": 8,
+          "text": "אטיולוגיה"
+        }
+      ]
+    },
+    {
+      "page": 192,
+      "n_tables": 2,
+      "total_cells": 29,
+      "trivial_cells": 0,
+      "meaningful_cells": 26,
+      "covered_cells": 22,
+      "coverage": 0.846,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 1,
+          "row": 1,
+          "col": 4,
+          "text": "האשימוטו/אוטו-אימונית"
+        },
+        {
+          "table": 1,
+          "row": 1,
+          "col": 7,
+          "text": "סב-אקוטית (disease Quervian-De)"
+        },
+        {
+          "table": 1,
+          "row": 1,
+          "col": 10,
+          "text": "אקוטית (סופורטיבית)"
+        },
+        {
+          "table": 1,
+          "row": 3,
+          "col": 0,
+          "text": " מחלה אוטו-אימונית"
+        }
+      ]
+    },
+    {
+      "page": 193,
+      "n_tables": 1,
+      "total_cells": 13,
+      "trivial_cells": 0,
+      "meaningful_cells": 12,
+      "covered_cells": 12,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 194,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 14,
+      "covered_cells": 14,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 197,
+      "n_tables": 1,
+      "total_cells": 22,
+      "trivial_cells": 0,
+      "meaningful_cells": 18,
+      "covered_cells": 18,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 200,
+      "n_tables": 1,
+      "total_cells": 7,
+      "trivial_cells": 0,
+      "meaningful_cells": 6,
+      "covered_cells": 6,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 202,
+      "n_tables": 1,
+      "total_cells": 8,
+      "trivial_cells": 0,
+      "meaningful_cells": 6,
+      "covered_cells": 6,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 203,
+      "n_tables": 1,
+      "total_cells": 29,
+      "trivial_cells": 0,
+      "meaningful_cells": 28,
+      "covered_cells": 20,
+      "coverage": 0.714,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 3,
+          "text": " המוגלובין A1C"
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "col": 7,
+          "text": " שעתיים לאחר העמסת 75 מ\"ג סוכר (OGTT)"
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "col": 11,
+          "text": " לאחר צום לילה (8 שעות)"
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "col": 7,
+          "text": "oתקין: עד %140mg"
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "col": 11,
+          "text": "oתקין: עד %100mg"
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "col": 7,
+          "text": "oסוכרת: מעל %200mg"
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "col": 11,
+          "text": "oסוכרת: מעל %126mg"
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "col": 1,
+          "text": "אתיולוגיות נוספות"
+        }
+      ]
+    },
+    {
+      "page": 204,
+      "n_tables": 1,
+      "total_cells": 11,
+      "trivial_cells": 0,
+      "meaningful_cells": 9,
+      "covered_cells": 9,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 205,
+      "n_tables": 1,
+      "total_cells": 18,
+      "trivial_cells": 1,
+      "meaningful_cells": 16,
+      "covered_cells": 15,
+      "coverage": 0.938,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "השפעות נוספות"
+        }
+      ]
+    },
+    {
+      "page": 207,
+      "n_tables": 1,
+      "total_cells": 28,
+      "trivial_cells": 0,
+      "meaningful_cells": 27,
+      "covered_cells": 27,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 208,
+      "n_tables": 1,
+      "total_cells": 23,
+      "trivial_cells": 0,
+      "meaningful_cells": 21,
+      "covered_cells": 21,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 210,
+      "n_tables": 1,
+      "total_cells": 20,
+      "trivial_cells": 0,
+      "meaningful_cells": 19,
+      "covered_cells": 19,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 212,
+      "n_tables": 1,
+      "total_cells": 18,
+      "trivial_cells": 0,
+      "meaningful_cells": 15,
+      "covered_cells": 15,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 214,
+      "n_tables": 1,
+      "total_cells": 18,
+      "trivial_cells": 0,
+      "meaningful_cells": 18,
+      "covered_cells": 17,
+      "coverage": 0.944,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 0,
+          "col": 1,
+          "text": "Small VesseleVasculitides associated with ANCA"
+        }
+      ]
+    },
+    {
+      "page": 215,
+      "n_tables": 1,
+      "total_cells": 21,
+      "trivial_cells": 0,
+      "meaningful_cells": 20,
+      "covered_cells": 19,
+      "coverage": 0.95,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 0,
+          "col": 4,
+          "text": "Small Vessle Vascuitis non-ANCA associated"
+        }
+      ]
+    },
+    {
+      "page": 216,
+      "n_tables": 1,
+      "total_cells": 26,
+      "trivial_cells": 0,
+      "meaningful_cells": 25,
+      "covered_cells": 24,
+      "coverage": 0.96,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 6,
+          "col": 4,
+          "text": " לפחות 4 מתוך חמשת הבאים (לא חייבים להתקיים בו\"ז):"
+        }
+      ]
+    },
+    {
+      "page": 218,
+      "n_tables": 1,
+      "total_cells": 22,
+      "trivial_cells": 0,
+      "meaningful_cells": 22,
+      "covered_cells": 22,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 219,
+      "n_tables": 1,
+      "total_cells": 8,
+      "trivial_cells": 0,
+      "meaningful_cells": 8,
+      "covered_cells": 7,
+      "coverage": 0.875,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 0,
+          "col": 1,
+          "text": "Chronic Recuurent Multifocal Osteomyelitis (CRMO)"
+        }
+      ]
+    },
+    {
+      "page": 222,
+      "n_tables": 1,
+      "total_cells": 7,
+      "trivial_cells": 0,
+      "meaningful_cells": 5,
+      "covered_cells": 5,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 224,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 13,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 226,
+      "n_tables": 1,
+      "total_cells": 18,
+      "trivial_cells": 0,
+      "meaningful_cells": 17,
+      "covered_cells": 17,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 228,
+      "n_tables": 2,
+      "total_cells": 19,
+      "trivial_cells": 0,
+      "meaningful_cells": 17,
+      "covered_cells": 17,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 229,
+      "n_tables": 2,
+      "total_cells": 19,
+      "trivial_cells": 0,
+      "meaningful_cells": 19,
+      "covered_cells": 19,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 230,
+      "n_tables": 1,
+      "total_cells": 33,
+      "trivial_cells": 0,
+      "meaningful_cells": 32,
+      "covered_cells": 31,
+      "coverage": 0.969,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 2,
+          "col": 1,
+          "text": "צורות נוספות:"
+        }
+      ]
+    },
+    {
+      "page": 233,
+      "n_tables": 1,
+      "total_cells": 40,
+      "trivial_cells": 1,
+      "meaningful_cells": 38,
+      "covered_cells": 35,
+      "coverage": 0.921,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 2,
+          "col": 1,
+          "text": "מחלות סיסטמיות"
+        },
+        {
+          "table": 0,
+          "row": 10,
+          "col": 1,
+          "text": "IGFB1 "
+        },
+        {
+          "table": 0,
+          "row": 11,
+          "col": 9,
+          "text": " (ח.אורגניות בשתן)"
+        }
+      ]
+    },
+    {
+      "page": 238,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 12,
+      "coverage": 0.923,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 0,
+          "col": 7,
+          "text": "Intraventricular Hemorrhage (IVH) and Periventricular Leukomalacia (PVL)"
+        }
+      ]
+    },
+    {
+      "page": 240,
+      "n_tables": 1,
+      "total_cells": 19,
+      "trivial_cells": 0,
+      "meaningful_cells": 17,
+      "covered_cells": 17,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 241,
+      "n_tables": 1,
+      "total_cells": 13,
+      "trivial_cells": 0,
+      "meaningful_cells": 11,
+      "covered_cells": 11,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 242,
+      "n_tables": 1,
+      "total_cells": 13,
+      "trivial_cells": 0,
+      "meaningful_cells": 11,
+      "covered_cells": 11,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 243,
+      "n_tables": 1,
+      "total_cells": 15,
+      "trivial_cells": 0,
+      "meaningful_cells": 12,
+      "covered_cells": 12,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 246,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 12,
+      "covered_cells": 12,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 247,
+      "n_tables": 1,
+      "total_cells": 13,
+      "trivial_cells": 0,
+      "meaningful_cells": 10,
+      "covered_cells": 10,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 248,
+      "n_tables": 1,
+      "total_cells": 31,
+      "trivial_cells": 0,
+      "meaningful_cells": 30,
+      "covered_cells": 29,
+      "coverage": 0.967,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 1,
+          "text": "Slipped Capital Femoral Epiphysis (SCFE)"
+        }
+      ]
+    },
+    {
+      "page": 249,
+      "n_tables": 1,
+      "total_cells": 29,
+      "trivial_cells": 0,
+      "meaningful_cells": 25,
+      "covered_cells": 25,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 250,
+      "n_tables": 1,
+      "total_cells": 11,
+      "trivial_cells": 0,
+      "meaningful_cells": 8,
+      "covered_cells": 8,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 252,
+      "n_tables": 1,
+      "total_cells": 14,
+      "trivial_cells": 0,
+      "meaningful_cells": 13,
+      "covered_cells": 10,
+      "coverage": 0.769,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 4,
+          "text": "הפרעות של המערכת הלקרימלית"
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "col": 10,
+          "text": "הפרעות באישון ובקשתית"
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "col": 1,
+          "text": "רטינופתיה של פגות (ROP)"
+        }
+      ]
+    },
+    {
+      "page": 253,
+      "n_tables": 1,
+      "total_cells": 11,
+      "trivial_cells": 0,
+      "meaningful_cells": 10,
+      "covered_cells": 9,
+      "coverage": 0.9,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 4,
+          "text": "הפרעות אקזמטוטיות"
+        }
+      ]
+    },
+    {
+      "page": 255,
+      "n_tables": 1,
+      "total_cells": 18,
+      "trivial_cells": 0,
+      "meaningful_cells": 17,
+      "covered_cells": 16,
+      "coverage": 0.941,
+      "flag": "GREEN",
+      "uncovered_samples": [
+        {
+          "table": 0,
+          "row": 1,
+          "col": 10,
+          "text": "אצטאמינופן (פראצטמול)"
+        }
+      ]
+    },
+    {
+      "page": 259,
+      "n_tables": 1,
+      "total_cells": 11,
+      "trivial_cells": 0,
+      "meaningful_cells": 7,
+      "covered_cells": 7,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 260,
+      "n_tables": 1,
+      "total_cells": 10,
+      "trivial_cells": 0,
+      "meaningful_cells": 7,
+      "covered_cells": 7,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 261,
+      "n_tables": 1,
+      "total_cells": 18,
+      "trivial_cells": 0,
+      "meaningful_cells": 17,
+      "covered_cells": 17,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    },
+    {
+      "page": 262,
+      "n_tables": 2,
+      "total_cells": 32,
+      "trivial_cells": 0,
+      "meaningful_cells": 28,
+      "covered_cells": 28,
+      "coverage": 1.0,
+      "flag": "GREEN",
+      "uncovered_samples": []
+    }
+  ]
+}

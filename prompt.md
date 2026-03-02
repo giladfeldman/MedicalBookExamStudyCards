@@ -295,6 +295,10 @@ Before clozing a word, ask: **"Could this be a wrong answer in a multiple-choice
 
 **Quick check: 2.5 notes per 1,000 source chars.** A page with 7,000 chars → minimum 17 notes. A page with 4,000 chars → minimum 10 notes. If you're below this, you are SKIPPING CONTENT.
 
+**Image-heavy page override (RC-2 prevention):** If text extraction returns <500 chars but the page image shows tables, flowcharts, or structured content, the char-based formula does NOT apply. Instead, count visible table cells / flowchart nodes from the image and target **1 card per 3-4 table cells**. These pages often contain the densest, most testable content (comparison tables, classification grids, drug dosing tables).
+
+**Bottom-third scan (RC-1 prevention):** After writing cards for each page, re-examine the BOTTOM THIRD of the page image specifically. The #1 source of content gaps in this project was tables/content at the bottom of pages being missed. Verify every row of every bottom-page table has at least one card.
+
 **Per-topic coverage requirement:** Every page must have at least one card for each of these categories that appear in the source:
 - Epidemiology / prevalence / risk factors
 - Genetics / pathogenesis / etiology
@@ -467,3 +471,4 @@ Key aspects:
 10. **Nelson chapters enrich Extras** — reading the relevant Nelson 22nd Ed chapter provides authoritative Extra content and helps verify ambiguous summary PDF text.
 11. **Density degradation across batches** — without enforcement, card density drops ~4x over time (17.5→4.9 notes/page). Root causes: (a) cards get "bloated" — cramming more facts per card instead of splitting, (b) MAX 5 clozes treated as a target instead of a ceiling, (c) treatment/dosing/prognosis systematically skipped or buried in Extra. Solution: formula-based density minimums (Rule 1), cloze distribution caps (Rule 4), treatment-must-be-carded rule (Rule 11), and automated validation after every card-writing phase.
 12. **Gold standard reference prevents drift** — every card-writing sub-agent MUST receive 10-15 example cards from batch 1a as a concrete style reference. Without this anchor, writing style drifts toward bloated, over-clozed cards.
+13. **Table content gaps survive all other checks** — density validation, cloze distribution, and field completeness ALL pass while table content is missing. Root causes: (a) bottom-of-page truncation — last 2-3 table rows missed, (b) image-only tables invisible to text extraction so char-based density formula doesn't flag them, (c) multi-tier classifications over-summarized into single cards, (d) rare variant rows omitted as "less important." Prevention: explicit bottom-third page scan + image-based density override for pages with <500 extracted chars.

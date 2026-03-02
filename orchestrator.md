@@ -243,6 +243,17 @@ CARD STYLE (match gold standard):
 - Include disease name + category in title
 - English search keywords in {curly braces} at end
 
+PAGE-BOTTOM SCAN (prevents bottom-of-page truncation — RC-1):
+After writing cards for a page, re-examine the BOTTOM THIRD of the page image.
+Tables, footnotes, and treatment details frequently appear at page bottom and
+are the #1 source of content gaps. Verify every row of every table is covered.
+
+IMAGE-HEAVY PAGE OVERRIDE (prevents image-table blindness — RC-2):
+If a page has <500 chars in text extraction but the page image shows tables,
+flowcharts, or structured content, IGNORE the char-based density formula.
+Instead, count visible table cells / flowchart nodes and ensure each is covered
+by at least one card. Target: 1 card per 3-4 table cells.
+
 AFTER WRITING — SELF-CHECK:
 Before saving, count your cards per page vs source chars. If any page is below
 the 2.5 notes/1k chars threshold, go back and write more cards for that page.
@@ -398,6 +409,8 @@ Before spawning any card-writing sub-agent, verify:
 - [ ] Cloze distribution caps are stated (50% ≤3, max 20% at 5)
 - [ ] Treatment-must-be-carded rule is mentioned
 - [ ] Post-writing density validation is planned
+- [ ] **Bottom-third scan instruction included** (prevents RC-1: bottom-of-page truncation)
+- [ ] **Image-heavy page override mentioned** (prevents RC-2: image-table blindness)
 
 ## Sub-Agent Containment Protocol
 

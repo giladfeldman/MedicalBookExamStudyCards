@@ -1,7 +1,7 @@
 {
   "project": "Nelson Anki Flashcards v6",
   "model_id": 1607392322,
-  "last_updated": "2026-03-01T14:48:57.821901+00:00",
+  "last_updated": "2026-03-02T18:00:00.000000+00:00",
   "current_batch": null,
   "next_batch": null,
   "completed_batches": [
@@ -686,6 +686,27 @@
       },
       "notes_count": 20,
       "cloze_count": 64
+    },
+    {
+      "batch_id": "supplementary_gap_fill",
+      "section": "Supplementary Gap-Fill (cross-section)",
+      "start_page": null,
+      "end_page": null,
+      "page_count": 12,
+      "status": "complete",
+      "phases": {
+        "extraction": "complete",
+        "chapter_map": "complete",
+        "cards": "complete",
+        "apkg": "complete",
+        "verified": "complete"
+      },
+      "notes_count": 142,
+      "cloze_count": 482,
+      "cards_written": 142,
+      "gap_pages": [7, 17, 47, 52, 112, 113, 116, 144, 180, 182, 185, 186, 189],
+      "root_causes": ["RC-1: bottom-of-page truncation", "RC-2: image-table blindness", "RC-3: over-summarization", "RC-4: rare variant omission"],
+      "audit_method": "Gemini Pro 3.1 external audit + systematic root cause analysis"
     }
   ],
   "stats": {
@@ -869,7 +890,11 @@
   "summary": {
     "sections_complete": 21,
     "pages_processed": 265,
-    "total_notes": 4357,
-    "total_clozes": 13795
+    "total_notes": 4499,
+    "total_clozes": 14277,
+    "supplementary_notes": 142,
+    "supplementary_clozes": 482,
+    "merged_apkg": "output/nelson_complete.apkg",
+    "last_audit": "2026-03-02"
   }
 }
